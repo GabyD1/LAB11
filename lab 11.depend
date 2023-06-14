@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1671707928 source:c:\users\alex\laburi poo\lab 11\main.cpp
+	<iostream>
+	<vector>
+	<Interface.h>
+	<Pixel.h>
+	<Image.h>
+	<Video.h>
+	<Movie.h>
+
+1671708965 source:c:\users\alex\laburi poo\lab 11\src\pixel.cpp
+	"Pixel.h"
+
+1671708405 c:\users\alex\laburi poo\lab 11\include\pixel.h
+	<iostream>
+	"Interface.h"
+
+1671705708 source:c:\users\alex\laburi poo\lab 11\src\interface.cpp
+	"Interface.h"
+
+1671708519 c:\users\alex\laburi poo\lab 11\include\interface.h
+
+1671708965 source:c:\users\alex\laburi poo\lab 11\src\image.cpp
+	"Image.h"
+
+1671708405 c:\users\alex\laburi poo\lab 11\include\image.h
+	"Pixel.h"
+	<vector>
+
+1671708965 source:c:\users\alex\laburi poo\lab 11\src\video.cpp
+	"Video.h"
+
+1671708688 c:\users\alex\laburi poo\lab 11\include\video.h
+	"Image.h"
+
+1671709106 source:c:\users\alex\laburi poo\lab 11\src\movie.cpp
+	"Movie.h"
+	<iostream>
+
+1671708965 c:\users\alex\laburi poo\lab 11\include\movie.h
+	"Video.h"
+
